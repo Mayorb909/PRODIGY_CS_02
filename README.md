@@ -23,4 +23,6 @@ Developing a simple image encryption tool using pixel manipulation. This will he
 * I define a function to make the code work like an application 
 
 ### PROJECT CODE
+[![Python](https://img.shields.io/badge/Python-Task_Code-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Mayorb909/PRODIGY_CS_02/blob/main/CS_02_Code)
+
 
